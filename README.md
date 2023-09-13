@@ -1,5 +1,9 @@
 # FeedMe - Meal Recommendation App
 
+[![Click to watch video](./public/feedMe.png)](./public/feedMe.mp4)
+### Watch Preview Video Above
+
+
 ## Project Overview
  
 Welcome to FeedMe, a web application designed to simplify meal planning and provide quick meal recommendations. With FeedMe, you can find meal suggestions based on meal types or search for specific meals by name.
