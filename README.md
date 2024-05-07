@@ -1,5 +1,9 @@
 # FeedMe - Meal Recommendation App
 
+[![Click to watch video](./public/feedMe.png)](./public/feedMe.mp4)
+### Watch Preview Video Above
+
+
 ## Project Overview
  
 Welcome to FeedMe, a web application designed to simplify meal planning and provide quick meal recommendations. With FeedMe, you can find meal suggestions based on meal types or search for specific meals by name.
@@ -10,8 +14,6 @@ FeedMe utilizes a custom API to provide meal recommendations and search function
 
 - `/meals/random/:type`: Get a random meal of a specific type, where `:type` can be `breakfast`, `lunch`, `dinner`, `dessert`, or `snack`.
 - `/meals/search/:query`: Search for meals by name, using `:query` as the search term.
-
-To learn more about how to use these API endpoints and the expected response formats, please refer to our [API Documentation](./documentation.md).
 
 ## Table of Contents
 
@@ -35,7 +37,7 @@ To run FeedMe locally, follow these steps:
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone https://github.com/your-username/FeedMe.git
+    git clone https://github.com/gozkybrain/FeedMe.git
 
 2. Navigate to the project directory:
 
@@ -90,5 +92,8 @@ FeedMe is built using the following technologies:
 
 Start using FeedMe today to discover new meal ideas and simplify your meal planning process!
 
+## Public API Access
+The data has been updated, and stored online together with the express server to be used publicly on your project for `get requests` 
 
+To learn more about how to use these API endpoints and the expected response formats, please refer to [feedMe API](https://github.com/Gozkybrain/feedMe-API)
 
